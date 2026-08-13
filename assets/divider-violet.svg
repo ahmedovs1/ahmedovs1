@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 26" width="1200" height="26" role="img" aria-label="divider">
+<defs>
+  <filter id="neon" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4" result="b1"/>
+    <feGaussianBlur stdDeviation="10" result="b2"/>
+    <feMerge><feMergeNode in="b2"/><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+<linearGradient id="g"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="0.5" stop-color="#7C3AED" stop-opacity="1"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient><radialGradient id="p"><stop offset="0" stop-color="#fff" stop-opacity="0.95"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient></defs>
+<rect x="0" y="11.6" width="1200" height="2.8" fill="url(#g)" rx="1.4"/>
+<path d="M548 8 L558 13 L548 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.46" stroke-linecap="round"/>
+<path d="M652 8 L642 13 L652 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.46" stroke-linecap="round"/>
+<path d="M532 8 L542 13 L532 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.37" stroke-linecap="round"/>
+<path d="M668 8 L658 13 L668 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.37" stroke-linecap="round"/>
+<path d="M516 8 L526 13 L516 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.28" stroke-linecap="round"/>
+<path d="M684 8 L674 13 L684 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.28" stroke-linecap="round"/>
+<path d="M500 8 L510 13 L500 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.19" stroke-linecap="round"/>
+<path d="M700 8 L690 13 L700 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.19" stroke-linecap="round"/>
+<path d="M484 8 L494 13 L484 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.1" stroke-linecap="round"/>
+<path d="M716 8 L706 13 L716 18" fill="none" stroke="#7C3AED" stroke-width="1.6" opacity="0.1" stroke-linecap="round"/>
+<g filter="url(#soft)"><ellipse cx="0" cy="13" rx="90" ry="9" fill="url(#p)"><animate attributeName="cx" values="-100;1300" dur="4.5s" repeatCount="indefinite"/></ellipse></g>
+<circle cx="600" cy="13" r="4" fill="#7C3AED" filter="url(#neon)"><animate attributeName="r" values="3;5.5;3" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>

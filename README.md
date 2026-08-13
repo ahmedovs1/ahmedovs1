@@ -40,7 +40,7 @@ const aziz = {
   state:     ["Redux", "Zustand"],
   threeD:    ["Three.js", "React Three Fiber", "GLSL"],
   also:      ["Python"],
-  learning:  "…", // TODO: впиши, что учишь сейчас
+  learning:  "Angular,C#", 
   motto:     "Сложную идею — в аккуратный и быстрый интерфейс",
 } as const;
 ```
