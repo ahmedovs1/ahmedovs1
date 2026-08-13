@@ -1,12 +1,10 @@
-<!-- ═══════════════════════════════ HERO ═══════════════════════════════ -->
+<!-- ══════════════════════════════ 3D HERO ══════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7C3AED,70:22D3EE,100:0D1117&height=220&section=header&text=Muhammad%20Aziz&fontSize=62&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Frontend%20%C2%B7%20Fullstack%20%C2%B7%203D%20on%20the%20web&descAlignY=57&descSize=18" alt="header" />
+<img width="100%" src="./assets/hero.svg" alt="Muhammad Aziz — Frontend / Fullstack / 3D" />
 
-<a href="https://github.com/ahmedovs1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&random=false&width=680&height=60&lines=Frontend+%2F+Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+Nest.js;3D+%D0%B8+%D1%88%D0%B5%D0%B9%D0%B4%D0%B5%D1%80%D1%8B+%D0%BD%D0%B0+Three.js;%D0%9C%D0%BE%D0%B1%D0%B0%D0%B9%D0%BB+%D0%BD%D0%B0+React+Native;%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0+%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%8E+%D1%87%D1%82%D0%BE-%D1%82%D0%BE+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5+%E2%9C%A8" alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=55&lines=Frontend+%2F+Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+Nest.js;3D+%D0%B8+%D1%88%D0%B5%D0%B9%D0%B4%D0%B5%D1%80%D1%8B+%D0%BD%D0%B0+Three.js;%D0%9C%D0%BE%D0%B1%D0%B0%D0%B9%D0%BB+%D0%BD%D0%B0+React+Native;%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0+%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%8E+%D1%87%D1%82%D0%BE-%D1%82%D0%BE+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5+%E2%9C%A8" alt="typing" />
 
 <br/>
 
@@ -25,13 +23,17 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=ahmedovs1&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="views" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:22D3EE,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="./assets/divider-cyan.svg" alt="" />
 
 </div>
 
-<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
+<!-- ══════════════════════════════ ABOUT ══════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Обо мне
+## 🧊 &nbsp;Обо мне
+
+<table border="0">
+<tr>
+<td width="66%" valign="top">
 
 ```ts
 const aziz = {
@@ -40,77 +42,67 @@ const aziz = {
   state:     ["Redux", "Zustand"],
   threeD:    ["Three.js", "React Three Fiber", "GLSL"],
   also:      ["Python"],
-  learning:  "Angular,C#", 
+  learning:  ["Angular", "C#"],
   motto:     "Сложную идею — в аккуратный и быстрый интерфейс",
 } as const;
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Что делаю**
-
 - 🧩 Собираю интерфейсы на **React / Next.js / Vue**
-- 🛠 Пишу бэкенд на **Nest.js**
+- 🛠 Пишу бэкенд на **Nest.js**, скрипты на **Python**
 - 📱 Мобильные приложения на **React Native**
-- 🎨 3D и анимации на **Three.js**
-
-</td>
-<td width="50%" valign="top">
-
-**Как делаю**
-
+- 🎨 3D, шейдеры и анимации на **Three.js**
 - ⚡ Перформанс и плавность — не опция, а требование
 - 🧠 Предсказуемый стейт: **Redux**, **Zustand**
-- 🐍 Скрипты и автоматизация на **Python**
-- 🔍 Чистый код важнее «работает и ладно»
+
+</td>
+<td width="34%" valign="middle" align="center">
+
+<img width="240" src="./assets/cube.svg" alt="rotating 3D wireframe cube" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="./assets/divider-violet.svg" alt="" />
 </div>
 
-<!-- ═══════════════════════════════ STACK ═══════════════════════════════ -->
+<!-- ══════════════════════════════ STACK ══════════════════════════════ -->
 
-## 🛠️ &nbsp;Стек технологий
+## 🛰️ &nbsp;Стек — на орбите
 
 <div align="center">
+
+<img width="100%" src="./assets/orbit.svg" alt="tech stack orbiting a 3D core" />
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nestjs&theme=dark" alt="stack row 1" />
 <br/>
 <img src="https://skillicons.dev/icons?i=threejs,redux,tailwind,nodejs,python,git,figma&theme=dark" alt="stack row 2" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=764ABC" />
-<img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square&logo=react&logoColor=FFB13B" />
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:22D3EE,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="./assets/divider-pink.svg" alt="" />
 
 </div>
 
-<!-- ═══════════════════════════════ 3D ═══════════════════════════════ -->
+<!-- ══════════════════════════════ SKILLS ══════════════════════════════ -->
+
+## 📐 &nbsp;Уровень владения — изометрия
+
+<div align="center">
+
+<img width="100%" src="./assets/skills.svg" alt="isometric 3D skill chart" />
+
+<img width="100%" src="./assets/divider-cyan.svg" alt="" />
+
+</div>
+
+<!-- ══════════════════════════════ 3D GRAPH ══════════════════════════════ -->
 
 ## 🌀 &nbsp;3D-график активности
 
-> Изометрический 3D-рендер моих коммитов. Обновляется автоматически каждый день
-> через GitHub Action — см. [`.github/workflows/3d-contrib.yml`](.github/workflows/3d-contrib.yml).
+> Изометрический 3D-рендер моих коммитов — обновляется автоматически каждый день
+> через GitHub Action, см. [`.github/workflows/3d-contrib.yml`](.github/workflows/3d-contrib.yml).
 
 <div align="center">
 
@@ -120,7 +112,19 @@ const aziz = {
   <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </picture>
 
-<br/><br/>
+<br/>
+
+<details>
+<summary><b>🎛 Ещё варианты 3D-рендера</b></summary>
+<br/>
+<img width="49%" src="./profile-3d-contrib/profile-gitblock.svg" alt="gitblock" />
+<img width="49%" src="./profile-3d-contrib/profile-night-view.svg" alt="night view" />
+<br/>
+<img width="49%" src="./profile-3d-contrib/profile-green-animate.svg" alt="green animate" />
+<img width="49%" src="./profile-3d-contrib/profile-season-animate.svg" alt="season animate" />
+</details>
+
+<br/>
 
 <!-- Змейка съедает контрибуции — генерируется в ветку output -->
 <picture>
@@ -129,11 +133,11 @@ const aziz = {
   <img width="100%" src="https://raw.githubusercontent.com/ahmedovs1/ahmedovs1/output/github-snake-dark.svg" alt="snake animation" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="./assets/divider-violet.svg" alt="" />
 
 </div>
 
-<!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
+<!-- ══════════════════════════════ STATS ══════════════════════════════ -->
 
 ## 📊 &nbsp;GitHub-статистика
 
@@ -155,11 +159,11 @@ const aziz = {
 
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=ahmedovs1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="trophies" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:22D3EE,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="./assets/divider-pink.svg" alt="" />
 
 </div>
 
-<!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
+<!-- ══════════════════════════════ PROJECTS ══════════════════════════════ -->
 
 ## 📌 &nbsp;Избранные проекты
 
@@ -181,7 +185,7 @@ const aziz = {
 
 </div>
 
-<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
+<!-- ══════════════════════════════ FOOTER ══════════════════════════════ -->
 
 <div align="center">
 
@@ -193,6 +197,6 @@ const aziz = {
 
 **Открыт к интересным задачам — пиши в [Telegram](https://t.me/ahmdv0) или на [почту](mailto:muhammadaziz62@icloud.com).**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:22D3EE,70:7C3AED,100:0D1117&height=140&section=footer" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="" />
 
 </div>
